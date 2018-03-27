@@ -31,3 +31,5 @@ Trabajo en algo que me han pedido.
 cambio abajo
 cambio conflicto desde el eclipse
 
+cambio conflictivo
+
